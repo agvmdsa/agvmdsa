@@ -24,7 +24,6 @@ Right now I'm splitting my time between **native mobile/desktop (Kotlin + Swift)
 
 ## **Languages & Tools**
 [![My Skills](https://skillicons.dev/icons?i=java,c,git,postman)](https://skillicons.dev)
-[![Bruno](https://img.shields.io/badge/Bruno-CC422A?style=flat&logo=bruno&logoColor=white)](https://www.usebruno.com)
 
 ## 📊 GitHub Stats
 
