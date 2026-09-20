@@ -4,7 +4,7 @@ Full-Stack Developer @ [CESAR](https://cesar.org.br)
 
 Right now I'm splitting my time between **native mobile/desktop (Kotlin + Swift)** and **full-stack web (React + Spring Boot)**, building study projects end-to-end — from REST APIs to the UI that consumes them.
 
-- 🤖 Building Android apps with Kotlin, and macOS apps with Swift/SwiftUI
+- 🤖 Building Android apps with Kotlin, and macOS/iOS apps with Swift/SwiftUI
 - 🌱 Full-stack projects pairing **Spring Boot** APIs with **React** frontends
 - 🛠️ Also comfortable in NestJS, Django, FastAPI and .NET when the stack calls for it
 
