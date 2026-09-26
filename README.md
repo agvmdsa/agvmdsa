@@ -31,8 +31,8 @@ Right now I'm splitting my time between **native mobile/desktop (Kotlin + Swift)
 
 ## 🌐 Socials
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielvalencasa98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andgabx)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agvmdsa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agvmdsa)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white)](https://www.andgabx.dev)
 
 ---
