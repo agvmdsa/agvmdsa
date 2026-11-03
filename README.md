@@ -28,12 +28,3 @@ Right now I'm splitting my time between **native mobile/desktop (Kotlin + Swift)
 ## 📊 GitHub Stats
 
 <img src="https://raw.githubusercontent.com/andgabx/andgabx/output/snake.svg" alt="Snake animation" />
-
-## 🌐 Socials
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agvmdsa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agvmdsa)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white)](https://www.andgabx.dev)
-
----
-[![](https://visitcount.itsvg.in/api?id=andgabx&icon=2&color=5)](https://visitcount.itsvg.in)
